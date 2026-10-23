@@ -7,6 +7,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Estácio, no Rio de Janei
 | Projeto | Área | O que é | Stack |
 |---|---|---|---|
 | [NFL Games](https://github.com/Zero-Kng/NFL-Games) | Dados | Pipeline que baixa os dados públicos do nflverse, monta as tabelas, calcula ratings de jogadores e publica uma interface no GitHub Pages com atualização diária automática | Python, pandas, pytest, GitHub Actions |
+| [CC: comparador de carros](https://github.com/Zero-Kng/cc-comparador-de-carros) | Dados e web | Base própria de 802 versões de 282 modelos vendidos no Brasil, coletada dos sites das fabricantes, cruzada com a tabela de consumo PBEV/Inmetro e validada por scripts, servida num site de busca e comparação | PHP, JavaScript, Node.js, JSON |
 | [efca-api](https://github.com/Zero-Kng/efca-api) | Back-end | API REST stateless que pontua um questionário de comportamento alimentar, com contrato de erro padronizado, CORS restrito e CI | Java 21, Spring Boot, JUnit 5, Docker |
 | [ecommerce-api](https://github.com/Zero-Kng/ecommerce-api) | Back-end | API de e-commerce com catálogo, autenticação e controle de estoque transacional | Python, FastAPI, SQLAlchemy, PostgreSQL, Alembic |
 | [RRapp](https://github.com/Zero-Kng/RRapp) | Full-stack | Rede social de reviews de restaurantes | React, TypeScript, PostgreSQL |
@@ -17,7 +18,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Estácio, no Rio de Janei
 
 **Dados:** Python, pandas, SQL, PostgreSQL
 
-**Back-end:** Java, Spring Boot, Python, FastAPI
+**Back-end:** Java, Spring Boot, Python, FastAPI, PHP
 
 **Front-end:** JavaScript, TypeScript, React, HTML, CSS
 
